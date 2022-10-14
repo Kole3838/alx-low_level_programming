@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * main -is the entry point for the program.
- * Return:zero if no error, Non-zero value if errors.
+ * main -serves as the entry point for the program.
+ * the program prints the various sizes of data types.
+ * Return: return zero.
  */
 int main(void)
 {
