@@ -15,4 +15,4 @@ int  _islower(int alpha)
 	{
 		return (0);
 	}
-}	
+}
