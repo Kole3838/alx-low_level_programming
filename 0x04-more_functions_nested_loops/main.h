@@ -15,4 +15,4 @@ int _putchar(char c);
  * @c: The character to be checked
  * Return: 1 if c is uppercase, 0 otherwise
  */
-
+#endif
